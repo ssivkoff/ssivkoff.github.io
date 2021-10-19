@@ -10,7 +10,7 @@
 </head>
 <body>
 <img class="fit-picture"
-     src="https://you.ubc.ca/wp-content/uploads/2013/06/UBC-Vancouver-campus.jpg"
+     src="/assets/https://you.ubc.ca/wp-content/uploads/2013/06/UBC-Vancouver-campus.jpg"
      alt="University of British Columbia, Vancouver campus">
   <p>I'm the content</p>
 </body>
