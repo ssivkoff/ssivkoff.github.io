@@ -5,10 +5,8 @@
   <title>blah</title>
   <link rel="stylesheet" href="style.css" media="screen" />
   {
-    height: 432px;
-    width: 768px;
-    margin: 0px;
-}
+    background: #c7423f;
+  }
 </head>
 <body>
 <img class="fit-picture"
