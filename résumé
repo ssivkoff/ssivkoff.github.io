@@ -4,13 +4,16 @@
   <meta charset=utf-8>
   <title>blah</title>
   <link rel="stylesheet" href="style.css" media="screen" />
-  element.style {
+  {
     height: 432px;
     width: 768px;
     margin: 0px;
 }
 </head>
 <body>
+<img class="fit-picture"
+     src="https://you.ubc.ca/wp-content/uploads/2013/06/UBC-Vancouver-campus.jpg"
+     alt="University of British Columbia, Vancouver campus">
   <p>I'm the content</p>
 </body>
 </html>
