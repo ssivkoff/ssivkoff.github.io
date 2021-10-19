@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang=en>
+<head>
+  <meta charset=utf-8>
+  <title>blah</title>
+  <link rel="stylesheet" href="style.css" media="screen" />
+  element.style {
+    height: 432px;
+    width: 768px;
+    margin: 0px;
+}
+</head>
+<body>
+  <p>I'm the content</p>
+</body>
+</html>
